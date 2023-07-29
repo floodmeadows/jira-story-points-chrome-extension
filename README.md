@@ -1,4 +1,4 @@
-#jira-story-points
+# jira-story-points
 
 Adds a set of Fibonacci sequence shortcut buttons to the story details page.
 Lets you quickly and easily set or remove the story points for an issue.
